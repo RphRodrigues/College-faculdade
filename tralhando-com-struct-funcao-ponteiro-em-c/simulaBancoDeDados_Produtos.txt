@@ -1,0 +1,222 @@
+Codigo do produto: 1003
+Nome do produto: IPHONE X
+Marca: APPLE
+Quantidade em estoque: 11
+Descricao do produto: AZUL CLARO
+Cadastrado por: fsj
+Codigo do produto: 1003
+Nome do produto: IPHONE X
+Marca: APPLE
+Quantidade em estoque: 7
+Descricao do produto: preto
+Cadastrado por: 
+Codigo do produto: 1002
+Nome do produto: IPHONE 9
+Marca: APPLE
+Quantidade em estoque: 5
+Descricao do produto: amarelo
+Cadastrado por: 
+Codigo do produto: 1001
+Nome do produto: IPHONE 6
+Marca: APPLE
+Quantidade em estoque: 3
+Descricao do produto: prata
+Cadastrado por: 
+Codigo do produto: 1003
+Nome do produto: IPHONE X
+Marca: APPLE
+Quantidade em estoque: 13
+Descricao do produto: verde
+Cadastrado por: 
+Codigo do produto: 1002
+Nome do produto: IPHONE 9
+Marca: APPLE
+Quantidade em estoque: 17
+Descricao do produto: azul
+Cadastrado por: 
+Codigo do produto: 1001
+Nome do produto: IPHONE 6
+Marca: APPLE
+Quantidade em estoque: 6
+Descricao do produto: rosa
+Cadastrado por: 
+Codigo do produto: 1002
+Nome do produto: IPHONE 9
+Marca: APPLE
+Quantidade em estoque: 4
+Descricao do produto: lilas
+Cadastrado por: 
+Codigo do produto: 1001
+Nome do produto: IPHONE 6
+Marca: APPLE
+Quantidade em estoque: 3
+Descricao do produto: cinza
+Cadastrado por: 
+Codigo do produto: 1002
+Nome do produto: IPHONE 9
+Marca: APPLE
+Quantidade em estoque: 1
+Descricao do produto: camera frontal
+Cadastrado por: 
+Codigo do produto: 1003
+Nome do produto: IPHONE X
+Marca: APPLE
+Quantidade em estoque: 11
+Descricao do produto: 5g
+Cadastrado por: 
+Codigo do produto: 2003
+Nome do produto: S10
+Marca: SAMSUNG
+Quantidade em estoque: 12
+Descricao do produto: camera traseira
+Cadastrado por: 
+Codigo do produto: 2003
+Nome do produto: S10
+Marca: SAMSUNG
+Quantidade em estoque: 19
+Descricao do produto: preto
+Cadastrado por: 
+Codigo do produto: 2001
+Nome do produto: S8
+Marca: SAMSUNG
+Quantidade em estoque: 21
+Descricao do produto: amarelo
+Cadastrado por: 
+Codigo do produto: 2002
+Nome do produto: S9
+Marca: SAMSUNG
+Quantidade em estoque: 25
+Descricao do produto: verde
+Cadastrado por: 
+Codigo do produto: 2003
+Nome do produto: S10
+Marca: SAMSUNG
+Quantidade em estoque: 16
+Descricao do produto: prata
+Cadastrado por: 
+Codigo do produto: 2003
+Nome do produto: S10
+Marca: SAMSUNG
+Quantidade em estoque: 19
+Descricao do produto: vermelho
+Cadastrado por: 
+Codigo do produto: 2001
+Nome do produto: S8
+Marca: SAMSUNG
+Quantidade em estoque: 13
+Descricao do produto: azul
+Cadastrado por: 
+Codigo do produto: 2003
+Nome do produto: S10
+Marca: SAMSUNG
+Quantidade em estoque: 8
+Descricao do produto: rosa
+Cadastrado por: 
+Codigo do produto: 2001
+Nome do produto: S8
+Marca: SAMSUNG
+Quantidade em estoque: 10
+Descricao do produto: lilas
+Cadastrado por: 
+Codigo do produto: 2003
+Nome do produto: S10
+Marca: SAMSUNG
+Quantidade em estoque: 26
+Descricao do produto: branco
+Cadastrado por: 
+Codigo do produto: 2001
+Nome do produto: S8
+Marca: SAMSUNG
+Quantidade em estoque: 35
+Descricao do produto: camera frontal / 5g / sensor de luminozidade
+Cadastrado por: 
+Codigo do produto: 2003
+Nome do produto: S10
+Marca: SAMSUNG
+Quantidade em estoque: 41
+Descricao do produto: preto / camera frontal
+Cadastrado por: 
+Codigo do produto: 1003
+Nome do produto: IPHONE X
+Marca: APPLE
+Quantidade em estoque: 14
+Descricao do produto: rosa e branco
+Cadastrado por: 
+Codigo do produto: 2001
+Nome do produto: S8
+Marca: SAMSUNG
+Quantidade em estoque: 7
+Descricao do produto: rosa choque
+Cadastrado por: 
+Codigo do produto: 1003
+Nome do produto: IPHONE X
+Marca: APPLE
+Quantidade em estoque: 8
+Descricao do produto: vermelho e preto
+Cadastrado por: 
+Codigo do produto: 1003
+Nome do produto: IPHONE X
+Marca: APPLE
+Quantidade em estoque: 13
+Descricao do produto: amarelo e rosa
+Cadastrado por: 
+Codigo do produto: 2003
+Nome do produto: S10
+Marca: SAMSUNG
+Quantidade em estoque: 20
+Descricao do produto: marron
+Cadastrado por: 
+Codigo do produto: 1001
+Nome do produto: IPHONE 6
+Marca: APPLE
+Quantidade em estoque: 22
+Descricao do produto: verde claro
+Cadastrado por: 
+Codigo do produto: 1003
+Nome do produto: IPHONE X
+Marca: APPLE
+Quantidade em estoque: 28
+Descricao do produto: verde e amarelo
+Cadastrado por: 
+Codigo do produto: 2002
+Nome do produto: S9
+Marca: SAMSUNG
+Quantidade em estoque: 30
+Descricao do produto: amarelo e verde
+Cadastrado por: 
+Codigo do produto: 2003
+Nome do produto: S10
+Marca: SAMSUNG
+Quantidade em estoque: 2
+Descricao do produto: lilas e verde
+Cadastrado por: 
+Codigo do produto: 1003
+Nome do produto: IPHONE X
+Marca: APPLE
+Quantidade em estoque: 7
+Descricao do produto: rubro-negro
+Cadastrado por: 
+Codigo do produto: 2003
+Nome do produto: S10
+Marca: SAMSUNG
+Quantidade em estoque: 9
+Descricao do produto: lilas e rosa
+Cadastrado por: 
+Codigo do produto: 1003
+Nome do produto: IPHONE X
+Marca: APPLE
+Quantidade em estoque: 10
+Descricao do produto: azul e verde
+Cadastrado por: fsj
+Codigo do produto: 2001
+Nome do produto: S8
+Marca: SAMSUNG
+Quantidade em estoque: 17
+Descricao do produto: verde e preto
+Cadastrado por: 
+Codigo do produto: 1002
+Nome do produto: IPHONE 9
+Marca: APPLE
+Quantidade em estoque: 14
+Descricao do produto: vinho
+Cadastrado por: fsj
