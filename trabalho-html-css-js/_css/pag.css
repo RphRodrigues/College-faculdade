@@ -1,0 +1,37 @@
+/* Arquivo Css*/
+
+@charset "utf-8";
+
+header#cabecalho 
+{
+	margin : 0px -190px -50px 0px;
+}
+
+fieldset#pag1
+{
+	border-color:#888888;
+	padding: 10px 50px 20px 10px;
+	width: 400px; height: 300px;
+	margin: -330px 100px 40px 650px;
+}
+
+fieldset#pag
+{
+	width:250px;
+	padding: 0px 0px 0px 10px;
+	margin: 15px 20px 20px 50px;
+}
+
+img#banner1
+{
+	margin: 0px 0px 50px -10px;
+}
+
+nav#menu ul
+{	
+	list-style: none;
+	text-transform:uppercase;
+	margin: -25px 0px 58px 515px;
+  	width: 300px;
+	padding: 5px;	
+}

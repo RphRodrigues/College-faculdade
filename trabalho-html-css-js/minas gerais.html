@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<title>Seu pedido</title>
+	<meta charset="utf-8" />
+	<link rel="stylesheet" type="text/css" href="_css/index.css" />  	<!-- Chama o arquivo css -->
+	<link rel="stylesheet" type="text/css" href="_css/fotos.css" />		<!-- Chama o arquivo css -->
+	<link rel="stylesheet" type="text/css" href="_css/pag.css">			<!-- Chama o arquivo css -->
+</head>
+	<script language="javascript" src="_javascript/validar-compra.js"></script>  <!-- Chama o arquivo javascript -->
+<body>
+<div id="interface">
+	<header id="cabecalho">
+		<hgrup>
+		<img src="_imagens/banner.jpg" width="1170px" height="150px" id="banner1">
+		</hgrup>
+
+		<nav id="menu">
+			<ul>
+				<li><a href="index.html" />Inicio</a></li>	
+				<li><a href="login.html" />Sair</a></li> 
+			</ul>
+		</nav>
+	</header>
+
+	<img src="_imagens/006-2.jpg" width="550">
+
+	<form method="post" action="compra_efetuada.html" name="form_compra">
+		<fieldset id="pag1">
+			<legend>Pedido</legend>
+
+				<p><input type="checkbox" name="refri" value="0" />Refrigerante
+
+				<input type="checkbox" name="batata" value="0" />Batatas</p>
+
+				<p><label>Telefone: </label>
+				<input type="text" name="tel"></p>
+
+				<p><label>Endereço: </label>
+				<input type="text" name="end"></p>
+
+				<fieldset id="pag">
+
+					<legend>Forma de pagamento</legend>
+					<p><input type="radio" name="pag" checked>Dinheiro
+					<input type="radio" name="pag">Cartão</p>
+
+				</fieldset>
+				
+				<p>Total: <input type="text" name="total"></p>
+				<p><input type="image" src="_imagens/botao-enviar.png" onclick="return validar_compra()" /></p>
+
+		</fieldset>
+	</form>
+<footer id="rodape">
+	<p>Copyright 2017<br />
+	<a href="http://facebook.com" target="_blank">Facebook</a> - 
+	<a href="http://twitter.com" target="_blank" >Twitter</a></p>
+</footer>
+
+</div>
+</body>
+</html> 

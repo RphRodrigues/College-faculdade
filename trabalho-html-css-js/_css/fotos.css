@@ -1,0 +1,65 @@
+/* Arquivo Css*/
+
+@charset "utf-8";
+
+ul#fotos
+{
+	width: 900px;
+	margin: 0px 0px 0px 170px;
+	padding:50px;
+	overflow: hidden;
+	list-style: none;
+
+}
+
+ul#fotos li 
+{
+	float:left;
+	width:380px;
+	height:210px;
+	border:10px solid #ffffff;
+	margin: 0 auto;	
+}
+
+a#ancora
+{
+	position: relative;
+	top: 30px; right:190px;
+}
+
+a#ancora
+{	
+	color: black;
+	text-decoration: none;
+}
+
+a#ancora:hover
+{
+	text-decoration: underline;
+}
+
+a#ancora1
+{	
+	color: black;
+	text-decoration: none;
+	padding: 0px 5px 10px 100px;
+	position:relative;
+	top: 10px;
+}
+a#ancora1:hover
+{
+	text-decoration: underline;
+}
+a#ancora6
+{	background-color: ;
+	color: black;
+	text-decoration: none;
+	padding: 0px 5px 10px 100px;
+	position:relative;
+	top: 10px;
+}
+a#ancora6:hover
+{
+	text-decoration: underline;
+}
+

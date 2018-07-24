@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<title>Cadastro</title>
+	<meta charset="utf-8" />
+	<link rel="stylesheet" type="text/css" href="_css/index.css" />  	<!-- Chama o arquivo css -->
+	<link rel="stylesheet" type="text/css" href="_css/cadastro.css">  	<!-- Chama o arquivo css -->
+</head>
+	<script languege="javascript" type="text/javascript" src="_javascript/validar-contato.js" ></script> <!-- Chama o arquivo javascript -->
+<body>
+
+	<form action="login.html" method="post" name="form1">
+		<fieldset id="foto">
+			<legend>Cadastro</legend>
+
+			<p><label for="iNome">Nome:</label>
+			<input type="text" name="nome" id="iNome" /></p>
+
+			<p><label for="iEmail">Email:</label>
+			<input type="text" name="email" id="iEmail" /></p>
+
+			<p>Sexo:
+			<input type="radio" name="sexo" id="iMasc" checked="" /> <label for="iMasc">Masculino</label>
+			<input type="radio" name="sexo" id="iFem" /><label for="iFem">Feminino</label></p>
+
+			<p><label for="iData">Data de nascimento</label>
+			<input type="date" name="data" id="iData" ></p>
+			
+			<p><input type="image" src="_imagens/botao-enviar.png" onclick="return vContato()" /></p>
+
+		</fieldset>
+		
+	</form>
+
+	<footer id="rodape">
+		<p>Copyright 2017<br />
+		<a href="http://facebook.com" target="_blank">Facebook</a> - 
+		<a href="http://twitter.com" target="_blank" >Twitter</a></p>
+	</footer>
+
+</body>
+</html>

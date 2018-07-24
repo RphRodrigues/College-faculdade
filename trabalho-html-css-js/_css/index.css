@@ -1,0 +1,100 @@
+/* Arquivo Css*/
+
+@charset "utf-8";
+
+body
+{
+	background-color: #06571b ; 
+	color: black;
+} 
+
+div
+{
+	width: 1150px;
+	background-color:  white;
+	margin: -20px auto 10px auto;
+	box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+	padding: 10px;
+}
+
+header#cabecalho 
+{
+	margin : 0px -190px -50px 0px;
+}
+
+img#banner1
+{
+	margin: 0px 0px 25px -10px;
+}
+	/* FORMATAÇÃO DO MENU */
+
+nav#menu
+{
+	display:block;
+}
+
+nav#menu ul
+{
+	list-style: none;
+	text-transform:uppercase;
+	margin: 0 auto;
+  	width: 300px;
+	padding: 5px;	
+	margin-top: 0px;	
+}
+
+nav#menu li
+{
+	display:inline-block;
+	background-color:#858585;
+	padding: 5px;
+	margin : 0px 0px 0px 0px;
+}
+
+nav#menu a
+{		
+	margin : 50px 0px 0px 0px;
+	color:white;
+	text-decoration:none;
+}
+
+nav#menu a:hover
+{
+	text-decoration:underline;
+}
+
+footer#rodape 
+{
+	display:block;
+	clear: both;
+	border-top: 1px #606060 solid;
+}
+footer#rodape p 
+{
+	text-align: center;
+}
+
+footer#rodape a
+{
+	color:black;
+	text-decoration:none;
+}
+
+footer#rodape a:hover
+{
+	text-decoration: underline;
+}
+
+p#compra
+{
+	margin-bottom: 300px;
+}
+a
+{
+	text-decoration: none;
+	color:#2e7b42;
+}
+a:hover
+{
+	text-decoration: underline;
+}

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+	<title>Login</title>
+	<meta charset="utf-8" />
+	<link rel="stylesheet" type="text/css" href="_css/login.css" />
+	<!-- Chama o arquivo css -->
+</head>
+<script language="javascript" src="_javascript/validar-login.js"></script>
+<!-- Chama o arquivo javascript -->
+
+<body>
+
+	<form action="index.html" method="post" name="login1">
+
+		<fieldset id="foto">
+
+			<legend>Login</legend>
+
+			<p>
+				<label for="cEmail"> Email: </label>
+				<input type="text" name="email" id="cEmail" placeholder="Seu email..." />
+			</p>
+
+			<p>
+				<label for="cSenha"> Senha: </label>
+				<input type="password" name="senha" id="cSenha" minlength="8" maxlength="12" placeholder="Sua senha" />
+			</p>
+
+			<div class="mov">
+				<ul>
+
+					<li>
+						<input type="image" src="_imagens/botao-enviar.png" onclick="return validar()" />
+					</li>
+
+					<li>
+						<a href="cadastro.html">Cadastro</a>
+					</li>
+
+				</ul>
+			</div>
+
+		</fieldset>
+
+	</form>
+
+</body>
+
+</html>
